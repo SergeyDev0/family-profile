@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap');
+.header-text__family-profile{
+    font-size: 24px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+*{
+    margin: 0 !important; 
+}
+.description__family-profile{
+    font-size: 14px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    padding-bottom: 32px;
+    margin-bottom: 0;
+}
